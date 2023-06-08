@@ -1,3 +1,4 @@
+![logo](https://github.com/kaz912r/kaz912r/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Sanaullah Shah Kazmi</h1>
 <h3 align="center">Business Analyst with the precision of a Data Scientist🔬</h3>
 
